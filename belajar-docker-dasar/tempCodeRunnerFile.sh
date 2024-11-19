@@ -1,1 +1,1 @@
-docker container start mongorestore
+docker network connect mongonetwork mongodb
